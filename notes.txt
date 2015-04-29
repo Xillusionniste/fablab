@@ -1,0 +1,1 @@
+Si on veut que l'affichage de la photo prise soit plus rapide (entre le moment où l'utilisateur appuie sur le bouton "capturer" et le moment où la photo est affichee a l'ecran), il faut mettre les tests sur les boutons directement dans la fonction webcam.
